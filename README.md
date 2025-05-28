@@ -59,7 +59,6 @@ I will use Rider, which is a better IDE than Visual Studio to work with Unreal E
 
 For project tracking and task management, I used Jira to organize the development workflow and monitor progress.You can find the link to the session below.
 ![images](images/JiraDani.PNG)
-- link: https://bournemouth-team-nk4tu6dm.atlassian.net/jira/software/projects/PPUE/boards/2?atlOrigin=eyJpIjoiOTk2MDk5YjVlYjEzNDMxNjk4ZjZkYjRjMWEyZTkyNzIiLCJwIjoiaiJ9
 
 ##  Resources
 - https://www.youtube.com/watch?v=Ijpa9mI2b5I&t=23s
