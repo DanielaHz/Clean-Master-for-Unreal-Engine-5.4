@@ -1,6 +1,3 @@
-![Project Banner](images/GameWorldPrototipeExample.PNG)
-
-
 # Pipeline Project: Plugin for Cleaning Up Projects in Unreal Engine 5.4
 
 ### Demo
