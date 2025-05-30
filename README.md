@@ -1,3 +1,5 @@
+> A tool that helps clean up Unreal Engine projects by removing unused assets like static meshes, blueprints, and materials.
+
 # Pipeline Project: Plugin for Cleaning Up Projects in Unreal Engine 5.4
 
 ### Demo
