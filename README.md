@@ -1,4 +1,4 @@
-# Pipeline Project: Plugin for Cleaning Up Projects in Unreal Engine 5.4
+# Plugin for Cleaning Up Projects in Unreal Engine 5.4
 
 ### Demo
 
